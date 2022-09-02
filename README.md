@@ -180,3 +180,15 @@ setInterval(() => {
 # Queue
 
 # Big O Notation
+
+# Object oriented Programming
+
+# Design Pattern
+
+# Caching
+
+# Database
+
+# SQL
+
+# NoSQL
